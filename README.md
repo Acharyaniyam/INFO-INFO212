@@ -1,4 +1,4 @@
-# INFO 212: Data Science Fundamentals with Python
+# INFO 212: Introduction to Data Science Programming
 
 Welcome to the INFO212 coursework repository! This repository contains weekly lecture notebooks, labs, and assignments completed as part of Drexel University's INFO 212 course, focused on foundational data science tools and techniques using Python.
 
